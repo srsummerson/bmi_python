@@ -5,6 +5,7 @@ bmi3d.egg-info/SOURCES.txt
 bmi3d.egg-info/dependency_links.txt
 bmi3d.egg-info/requires.txt
 bmi3d.egg-info/top_level.txt
+built_in_tasks/Test0p5D.py
 built_in_tasks/__init__.py
 built_in_tasks/bmimultitasks.py
 built_in_tasks/manualcontrolfreechoice_HLreward.py
